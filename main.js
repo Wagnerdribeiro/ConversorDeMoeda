@@ -22,6 +22,5 @@ function Euro() {
     var elementoValorConvertido = document.getElementById("valorConvertido");
     var valorConvertido = "O resultado em real é R$ " + valorEmReal;
     
-    elementoValorConvertido.innerHTML = valorConvertido;
-    
+    elementoValorConvertido.innerHTML = valorConvertido; 
 }
